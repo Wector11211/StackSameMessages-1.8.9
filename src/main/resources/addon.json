@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Stack Same Messages",
+  "description": "This addon allows to stack identical messages that's being followed one by another.",
+  "mainClass": "net.labymod.addons.Wector11211.StackSameMessages.StackSameMessagesAddon",
+  "version": 1,
+  "author": "Wector11211",
+  "category": 2,
+  "icon": "https://i.imgur.com/Qy1gCDV.png"
+}
